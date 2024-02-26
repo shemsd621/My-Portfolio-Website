@@ -1,55 +1,31 @@
 /* eslint-disable */
 import girl1 from '../assets/svg/testimonials/girl1.svg'
-import girl2 from '../assets/svg/testimonials/girl2.svg'
-import girl3 from '../assets/svg/testimonials/girl3.svg'
 import boy1 from '../assets/svg/testimonials/boy1.svg'
 import boy2 from '../assets/svg/testimonials/boy2.svg'
-import boy3 from '../assets/svg/testimonials/boy3.svg'
 
 
 
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
-        image: boy2
-    },
-    {
-        id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
-    {
-        id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+        name: 'Nandun Dias',
+        title: 'Software Engineering Undergraduate',
+        text: "It's a pleasure to work with Shemaya. She has been a helping hand throughout various projects and tasks we have undertaken. She was a great team leader and showed us the path towards success.",
         image: boy1
     },
     {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
+        id: 2,
+        name: 'Sunali Ratnayake',
+        title: 'Worked Together at IFS',
+        text: "Shemaya loves to challenge herself by taking new opportunities and she's a great team player. Wishing you all the very best for your future endeavours.",
+        image: girl1
     },
     {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
+        id: 3,
+        name: 'Savinu Hasalanka',
+        title: 'Worked on a Web Development Project',
+        text: "She is very eager to learn new skills and technologies fast and has done an amazing job so far.",
+        image: boy2
     }
 ]
 

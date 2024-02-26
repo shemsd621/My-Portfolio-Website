@@ -15,7 +15,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: one
     },
     {
         id: 2,
@@ -24,7 +23,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: two
     },
     {
         id: 3,
@@ -33,7 +31,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: three
     },
     {
         id: 4,
@@ -42,7 +39,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: four
     },
     {
         id: 5,
@@ -51,7 +47,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: five
     },
     {
         id: 6,
@@ -60,7 +55,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: six
     },
     {
         id: 7,
@@ -69,7 +63,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: seven
     },
     {
         id: 8,
@@ -78,7 +71,6 @@ export const achievementsData = [
         tags: [],
         code: 'https://github.com/shemsd621',
         demo: 'https://github.com/shemsd621',
-        image: eight
     }
 ]
 
